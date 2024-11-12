@@ -6,7 +6,7 @@ authors = [
     { name = "Jonathan Dan", email = "jonathan.dan@epfl.ch" }
 ]
 dependencies = [
-    "epilepsy2bids>=0.7",
+    "epilepsy2bids>=0.0.7",
     "numpy>=1.26",
     "timescore>=0.0.5",
 ]
