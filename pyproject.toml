@@ -8,7 +8,7 @@ authors = [
 dependencies = [
     "epilepsy2bids>=0.0.7",
     "numpy>=1.26",
-    "timescore>=0.0.5",
+    "timescoring>=0.0.5",
 ]
 readme = "README.md"
 requires-python = ">= 3.12"
